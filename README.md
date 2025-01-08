@@ -3,11 +3,11 @@
 
 # Basic Details
 
-### Name: Priaansh Gupta
-### College: R V INSTITUTE OF TECHNOLOGY AND MANAGEMENT, Bengalore 560076
-### Email ID: rvit23bec036.rvitm@rvei.edu.in
-### GitHub Profile: beast-brain-11
-### LinkedIN Profile: [Priaansh Gupta](https://www.linkedin.com/in/priaansh-gupta/)
+### Name: NANDEESH C
+### College: JSS SCIENCE AND TECHNOLOGY UNIVERSITY, MSYURU
+### Email ID: cnandeesh.2003@gmail.com
+### GitHub Profile: Cnandeesh03
+### LinkedIN Profile: [Nandeesh C](www.linkedin.com/in/nandeesh-c)
 
 </details>
 
@@ -17,7 +17,7 @@
 <summary> Task-1: C based lab screenshots </summary>
 <br>
 
-![t1_1](https://github.com/user-attachments/assets/ca0f6021-8d28-47e9-a643-0f964b318e1d)
+![t1_1](./C%20based%20summing.jpg)
 
 </details>
 
@@ -25,16 +25,11 @@
 <summary> Task-1: RISC-V based lab screenshots </summary>
 <br>
 
-![t1_2](https://github.com/user-attachments/assets/3982f7a9-cab2-4a1f-99e0-113b7b976eaa)
+![t1_2](./O1.jpg)
 
-![t1_3](https://github.com/user-attachments/assets/d50cbce4-e138-4033-8d77-8fb5271b125c)
+![t1_3](./Ofast.jpg)
 
-![t1_4](https://github.com/user-attachments/assets/7307b892-8b5f-4525-a5af-42dda64762ca)
+![t1_4](./Server%20hosted.jpg)
 
-![t1_5](https://github.com/user-attachments/assets/0cc12187-6bfb-4353-a2e5-80597c3f2804)
-
-![t1_6](https://github.com/user-attachments/assets/1f9e7d01-1000-47df-bc26-dc443a95cbc2)
-
-![t1_7](https://github.com/user-attachments/assets/0bb366f1-9d88-421d-bf56-87000b2e948c)
 
 </details>
